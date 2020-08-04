@@ -18,12 +18,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lanmeidada&count_private=true&show_icons=true&theme=cobalt" />
 </a>
-<br />
+<div style="margin-top: 20px;"></div>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanmeidada&layout=compact" />
-</a>
-<br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lanmeidada&repo=vuepress-blog" />
 </a>
 

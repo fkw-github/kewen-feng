@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 </a>
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lanmeidada&repo=blog-sys" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lanmeidada&repo=vuepress-blog" />
 </a>
 

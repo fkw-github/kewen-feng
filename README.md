@@ -10,7 +10,7 @@
   ![Vue](https://img.shields.io/badge/-Vue-3b2e5a?style=flat&logo=vuedotjs)
   ![Git](https://img.shields.io/badge/-Git-3b2e5a?style=flat&logo=git)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-3b2e5a?style=flat&logoColor=24ABF2&logo=visual-studio-code)
-- 🌱 I’m currently learning:
+- 🌱 I’m current study:
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=flat&logo=react)
   ![Typescript](https://img.shields.io/badge/-Typescript-3b2e5a?style=flat&logo=typescript)
 - 📫 How to reach me: lanmeidada@qq.com

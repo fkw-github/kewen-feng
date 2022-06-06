@@ -15,13 +15,6 @@
   ![Typescript](https://img.shields.io/badge/-Typescript-3b2e5a?style=flat&logo=typescript)
 - 📫 How to reach me: lanmeidada@qq.com
 
-## Card
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanmeidada&layout=compact" />
-</a>
-
-## Number of visitors so far
-![](https://visitor-badge.glitch.me/badge?page_id=lanmeidada.visitor-badg)
  
 
 
